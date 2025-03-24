@@ -12,7 +12,7 @@
   "env": {
     "SESSION_ID": {
       "description": "Enter your session id",
-      "value": "",
+      "value": "Bellah~rjZDVb7D#PZL3nR-vYJ1ySCEY4TAhZ7dXFRniJUqjYLyg-6motao",
       "required": true
 },
   "BOT_NAME": {
@@ -22,7 +22,7 @@
     },
   "OWNER_NUMBER": {
       "description": "Enter your whatsapp number here",
-      "value": "254104245659",
+      "value": "23274448130",
       "required": true
     },
   "PACK_NAME": {
