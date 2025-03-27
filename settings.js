@@ -30,7 +30,7 @@ global.xprefix = process.env.BOT_PREFIX ||'.'
 global.hituet = 0
 
 //bot settings 
-global.autoblocknumber = process.env.AUTOBLOCK_NUMBER || '263,234' //set autoblock country code
+global.autoblocknumber = process.env.AUTOBLOCK_NUMBER || '' //set autoblock country code
 global.antiforeignnumber = process.env.ANTIFOREIGN_NUMBER || '' //set anti foreign number country code
 global.mode = process.env.MODE || 'public' //set bot public/private
 global.anticall = process.env.ANTI_CALL || 'false' //bot blocks user when called
@@ -39,7 +39,7 @@ global.adminevent = true //show promote/demote message
 global.groupevent = true //show update messages in group chat
 //msg
 global.autorecording = process.env.AUTO_RECORDING || 'false'
-global.autotyping = process.env.AUTO_TYPING || 'true'
+global.autotyping = process.env.AUTO_TYPING || 'false'
 
 global.mess = {
 	limit: 'Your limit is up <\>',
