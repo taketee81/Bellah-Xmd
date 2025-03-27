@@ -112,7 +112,7 @@ const {  state, saveCreds } =await useMultiFileAuthState(`./session`)
     const Bellah = makeWASocket({
         logger: pino({ level: 'silent' }),
         printQRInTerminal: !pairingCode, // popping up QR in terminal log
-      mobile: useMobile, // mobile api (prone to bans)
+      
       browser: [ "Ubuntu", "Chrome", "20.0.04" ], // for this issues https://github.com/WhiskeySockets/Baileys/issues/328
      auth: {
          creds: state.creds,
@@ -216,7 +216,7 @@ caption: ` VolTah Xmd (Bellah Xmd V2) connected
 
 > BotName: ${global.botname}
 
-> Total Command: 69
+> Total Command: 86
 
 > Mode:  ${Bellah.public ? '𝗣𝘂𝗯𝗹𝗶𝗰 ϟ' : '𝗣𝗿𝗶𝘃𝗮𝘁𝗲 ϟ'}
 
@@ -254,7 +254,7 @@ CFonts.say('BELLAH XMD V2', {
             console.log(color(`${themeemoji} RECODE: ${wm}\n`,'magenta'))
             await delay(1000 * 2) 
             Bellah.groupAcceptInvite("JmsgzJllAAB8zHfQcJXxES")*/
-            console.log('> Bot is Connected< [ ! ]')
+            console.log('> VolTah Xmd Is Running< [ ! ]')
 		}
 	
 } catch (err) {
