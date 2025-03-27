@@ -52,7 +52,7 @@
     },
   "ANTIFOREIGN_NUMBER": {
       "description": "Enter antiforeignnumbers with country codes if you don't want antiforeign numbers",
-      "value": "234,263",
+      "value": "",
       "required": false 
     },
   "BOT_PREFIX": {
