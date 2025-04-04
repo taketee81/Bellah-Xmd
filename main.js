@@ -216,7 +216,7 @@ caption: ` VolTah Xmd (Bellah Xmd V2) connected
 
 > BotName: ${global.botname}
 
-> Total Command: 86
+> Total Command: 97
 
 > Mode:  ${Bellah.public ? '𝗣𝘂𝗯𝗹𝗶𝗰 ϟ' : '𝗣𝗿𝗶𝘃𝗮𝘁𝗲 ϟ'}
 
@@ -271,25 +271,10 @@ Bellah.ev.on("messages.upsert",  () => { })
 	            
 
 
-// Anti Call
-    Bellah.ev.on('call', async (XeonPapa) => {
-    	if (global.anticall){
-    console.log(XeonPapa)
-    for (let XeonFucks of XeonPapa) {
-    if (XeonFucks.isGroup == false) {
-    if (XeonFucks.status == "offer") {
-    let XeonBlokMsg = await Bellah.sendTextWithMentions(XeonFucks.from, `*${Bellah.user.name}* can't receive ${XeonFucks.isVideo ? `video` : `voice` } call. Sorry @${XeonFucks.from.split('@')[0]} you will be blocked. If called accidentally please contact the owner to be unblocked !`)
-    Bellah.sendContact(XeonFucks.from, owner, XeonBlokMsg)
-    await sleep(8000)
-    await Bellah.updateBlockStatus(XeonFucks.from, "block")
-    }
-    }
-    }
-    }
-    })
+
     //autostatus view
         Bellah.ev.on('messages.upsert', async chatUpdate => {
-        	if (global.antiswview){
+        	if (global.autostatusview){
             mek = chatUpdate.messages[0]
             if (mek.key && mek.key.remoteJid === 'status@broadcast') {
             	await Bellah.readMessages([mek.key]) }

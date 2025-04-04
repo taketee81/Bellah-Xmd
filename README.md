@@ -12,6 +12,8 @@
 <a href="https://github.com/Tennor-modz/Bellah-XMD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 
+
+
 `Polite Notice`
 
 * *`This Repo is not Obfuscated, And therefore any mistakes or errors persists due to recoding        owner will not be in Touch with it`*
@@ -37,7 +39,7 @@
 
 3.   > **Bot File(Panel Deployment)**
 
-<a href='https://www.mediafire.com/file/8f2jukfvdiwc3v4/BELLAH_XMD_V2.zip/file/' target="_blank">
+<a href='https://www.mediafire.com/file/ktljb7pl5p93wwb/BELLAH_XMD_V2.zip/file' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Zip%20Here-darkpink?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 <br> 

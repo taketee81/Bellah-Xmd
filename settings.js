@@ -34,7 +34,7 @@ global.autoblocknumber = process.env.AUTOBLOCK_NUMBER || '' //set autoblock coun
 global.antiforeignnumber = process.env.ANTIFOREIGN_NUMBER || '' //set anti foreign number country code
 global.mode = process.env.MODE || 'public' //set bot public/private
 global.anticall = process.env.ANTI_CALL || 'false' //bot blocks user when called
-global.autoswview = process.env.AUTOSW_VIEW || 'true' //auto status/story view
+global.autostatusview = process.env.AUTOSW_VIEW || 'true' //auto status/story view
 global.adminevent = true //show promote/demote message
 global.groupevent = true //show update messages in group chat
 //msg
