@@ -200,7 +200,7 @@ try{
 			await delay(1999)
 			Bellah.sendMessage(Bellah.user.id, {
 image: {
-url: 'https://files.catbox.moe/t3gs2m.jpg'
+url: 'https://url.bwmxmd.online/Adams.s0tso4x6.jpg'
 }, 
 caption: ` VolTah Xmd (Bellah Xmd V2) connected
 > Bot prefix: ${global.xprefix}
@@ -226,7 +226,7 @@ https://chat.whatsapp.com/CzFlFQrkdzxFw0pxCBYM7H
 
 
 			await Bellah.newsletterFollow(channelId);
-       const CFonts = require('cfonts');
+      /* const CFonts = require('cfonts');
 CFonts.say('BELLAH XMD V2', {
   font: 'tiny',              // Jenis font
   align: 'left',            // Posisi teks (left, center, right)
@@ -246,7 +246,7 @@ CFonts.say('BELLAH XMD V2', {
             console.log(color(`${global.themeemoji} WA NUMBER: ${global.owner}`,'magenta'))
             console.log(color(`${global.themeemoji} RECODE: ${global.wm}\n`,'magenta'))
             await delay(1000 * 2) 
-            Bellah.groupAcceptInvite("https://chat.whatsapp.com/H7HjnZ2pVznAon1bEYvkfX")
+            Bellah.groupAcceptInvite("https://chat.whatsapp.com/H7HjnZ2pVznAon1bEYvkfX")*/
             console.log('> Bot is Connected< [ ! ]')
 		}
 	
