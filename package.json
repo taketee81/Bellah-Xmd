@@ -20,7 +20,7 @@
         "@adiwajshing/keyed-db": "^0.2.4",
         "@hapi/boom": "^10.0.1",
         "@vitalets/google-translate-api": "^9.2.0",
-        "@whiskeysockets/baileys": "https://github.com/Dark-Xploit/Baileys/archive/refs/tags/v1.3.5.tar.gz",
+        "@whiskeysockets/baileys": "github:Tennor-modz/Baileys",
         "anime-wallpaper": "^1.0.2",
         "api-dylux": "^1.4.4",
         "aptoide-scraper": "^1.0.1",
