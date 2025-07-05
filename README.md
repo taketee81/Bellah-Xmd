@@ -1,4 +1,4 @@
-# BELLAH-XMD V2 (VolTah Xmd) is here
+# BELLAH-XMD V3 (VolTah Xmd) is here
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +BELLAH-XMD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+GIDDY+TENNOR;RELEASED+24.03.2025" alt="Typing SVG" /></a>
 <p align="center">
@@ -88,7 +88,7 @@ Thanks to...
 * [`Tylor `](https://github.com/Dark-Xploit) ***Setting up heroku deployment and Whiskey baiyleys***
 
 
-> Version 2.0.0
+> Version 3.0.0
 
 
 ©𝗩𝗼𝗹𝗧𝗮𝗵 𝗫𝗺𝗱 - 𝗕𝗲𝗹𝗹𝗮𝗵 𝗫𝗺𝗱 𝗩2 2025
