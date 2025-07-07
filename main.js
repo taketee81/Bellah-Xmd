@@ -1,5 +1,3 @@
-//base by DGXeon (Xeon Bot Inc.)
-//Recode by Tennor 
 
 require('./settings')
 const makeWASocket = require("@whiskeysockets/baileys").default
