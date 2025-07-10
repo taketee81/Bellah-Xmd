@@ -3,7 +3,7 @@
 *Third version based on commands inform of plugins*
 
 ## External plugins 💢
- Click [`Go to external plugin`](https://github.com/Tennor-modz/bellah-XMD/fork)
+ Click [`Go to external plugin`](https://github.com/Tennor-modz/External-plugins/tree/main)
 
 
  
