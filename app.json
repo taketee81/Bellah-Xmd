@@ -24,6 +24,11 @@
       "description": "Enter your whatsapp number here",
       "value": "254104245659",
       "required": true
+    "OWNER_NAME": {
+      "description": "Enter your whatsapp user name here",
+      "value": "Giddy Tennor",
+      "required": false
+    },
     },
   "PACK_NAME": {
       "description": "Enter your sticker pack name",
